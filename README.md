@@ -1,1 +1,2 @@
-# Non_aproximated_ray_simulation
+Non-approximated-ray-simulation
+Modeling lens behavior for non-approximated light rays
